@@ -47,3 +47,11 @@ and plugin modules to suit specific application requirements.
 * MATLAB GUI for the Image Signal Processing Pipeline:
   * Develop a MATLAB GUI for the ISP pipeline, providing users with the flexibility to import and direct images.
   * Enable users to choose specific plugins and algorithms tailored to their requirements.
+
+
+## System design
+This chapter explores system design, focusing on real-world functionality, design options,
+and architectural principles. It provides a detailed overview of the proposed design for each
+block within the Simple Image Signal Processing (ISP) pipeline, offering insights into implementation details. The discussion navigates through architectural choices, highlighting
+the systematic approach and technical considerations shaping the robust image processing
+tool.

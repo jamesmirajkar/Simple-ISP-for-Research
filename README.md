@@ -2,7 +2,7 @@
 ## Introduction
 In the dynamic landscape of digital image processing, the Simple Image Signal Processing
 (ISP) pipeline stands as a paramount tool for elevating the quality and precision of visual
-data[6][1]. This comprehensive report navigates through the development of a meticulously crafted ISP pipeline tailored explicitly for research applications. To comprehend
+data. This comprehensive report navigates through the development of a meticulously crafted ISP pipeline tailored explicitly for research applications. To comprehend
 the gravity of this initiative, it is imperative to scrutinize the fundamental principles of
 ISP, trace its evolutionary trajectory, assess its pervasive impact on visual representation,
 and dissect the intricacies of the proposed pipeline.
@@ -21,7 +21,7 @@ a clarified lens for interpreting visual data.
 The evolutionary trajectory of ISP narrates a compelling story of technological progress.
 Originating as a set of algorithms mitigating hardware constraints, ISP has evolved into
 a sophisticated system that integrates computational photography, machine learning, and
-artificial intelligence[4]. This evolution has empowered ISP to adapt continually, shaping
+artificial intelligence. This evolution has empowered ISP to adapt continually, shaping
 the landscape of digital imaging and expanding the boundaries of what is achievable.
 At the heart of this report lies an exploration of the discrete components constituting
 the ISP pipeline. These components are not mere technicalities but pivotal building
@@ -29,9 +29,9 @@ blocks in the realm of visual enhancement, each contributing a nuanced refinemen
 canvas of digital images. Commencing with Black Level Correction, a precision calibration
 ensures an optimal starting point with regard to darkness. Subsequently, Demosaicing
 takes center stage, executing a meticulous effort to reconstruct mosaic patterns captured
-by digital sensors, thereby revealing the true colors concealed within the pixel tapestry[3].
+by digital sensors, thereby revealing the true colors concealed within the pixel tapestry.
 White Balance assumes a meticulous role, delicately adjusting color temperature to
-harmonize hues under diverse lighting conditions[7]. The subsequent spotlight is on EdgeAware Noise Reduction, executing a virtuoso performance in selectively refining clarity
+harmonize hues under diverse lighting conditions. The subsequent spotlight is on EdgeAware Noise Reduction, executing a virtuoso performance in selectively refining clarity
 8
 while preserving visual harmony. Edge-Aware Sharpening follows suit, intelligently enhancing edges without compromising the integrity of the image. The pinnacle of the ISP
 pipeline is exemplified through Tone Mapping, assuming the role of a conductor that

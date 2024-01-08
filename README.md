@@ -2,7 +2,7 @@
 ## Introduction
 In the dynamic landscape of digital image processing, the Simple Image Signal Processing
 (ISP) pipeline stands as a paramount tool for elevating the quality and precision of visual
-data. This comprehensive report navigates through the development of a meticulously crafted ISP pipeline tailored explicitly for research applications. To comprehend
+data. This comprehensive report navigates through the development of a meticulously crafted ISP pipeline tailored explicitly for research applications. To comprehend
 the gravity of this initiative, it is imperative to scrutinize the fundamental principles of
 ISP, trace its evolutionary trajectory, assess its pervasive impact on visual representation,
 and dissect the intricacies of the proposed pipeline.
@@ -10,7 +10,7 @@ ISP, fundamentally, addresses the perpetual pursuit of refining image quality in
 digital domain. Its evolutionary path, originating from a rudimentary set of algorithms
 rectifying hardware limitations, has culminated in a sophisticated system that seamlessly
 integrates computational advancements and artificial intelligence. This transformative
-journey positions ISP as an indispensable technology with far-reaching applications, spanning scientific exploration to artistic expression[2].
+journey positions ISP as an indispensable technology with far-reaching applications, spanning scientific exploration to artistic expression.
 As this report delves into the core of ISP, its transformative influence on image quality
 becomes apparent. Functioning as a digital alchemist, ISP refines raw data through a
 meticulously orchestrated series of processes, correcting imperfections, minimizing noise,

@@ -31,11 +31,11 @@ To Develop a Simple and Robust Image Signal Processing (ISP) Pipeline to effecti
 * Image Acquisition and Preprocessing:
   * Acquire raw image data from a specified source to efficiently handle image
 processing in large quantities.
-  * Apply necessary preprocessing steps such as Black level correction, De mosaicking, and white balance.
+  * Apply necessary preprocessing steps such as Black level correction, De mosaicking, and white balance.
 * Image Enhancement:
   * Apply Gamma Correction to adjust image brightness and contrast.
   * Utilize Color Correction Matrix for enhancing color accuracy.
-  * Apply noise reduction techniques, utilizing either bilateral filtering or nonlinear filtering.
+  * Apply noise reduction techniques, utilizing either bilateral filtering or nonlinear filtering.
   * Implement tone mapping to handle high dynamic range scenes.
 * Robustness and Error Handling:
   * Incorporate error handling for corrupted images and unexpected scenarios in
@@ -45,5 +45,5 @@ output quality.
   * Allow for flexibility and customization with respect to parameters, algorithms,
 and plugin modules to suit specific application requirements.
 * MATLAB GUI for the Image Signal Processing Pipeline:
-  * Develop a MATLAB GUI for the ISP pipeline, providing users with the flexibility to import and direct images.
+  * Develop a MATLAB GUI for the ISP pipeline, providing users with the flexibility to import and direct images.
   * Enable users to choose specific plugins and algorithms tailored to their requirements.

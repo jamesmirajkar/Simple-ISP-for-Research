@@ -23,3 +23,27 @@ Beyond the exploration of ISP components lies the crux of this project – the d
 In a landscape inundated with visual data, automating the intricate processes of ISP not only conserves time but also ensures uniform application of enhancement across extensive datasets. The envisioned pipeline becomes an ally in research, where datasets are expansive, and insights are concealed within the pixels. It serves as a bridge connecting raw data to meaningful interpretation, transforming a cumbersome process into a streamlined workflow.
 
 In conclusion, this report outlines the Simple Image Signal Processing (ISP) pipeline, focusing on key components like Black Level Correction, Demosaicing, White Balance, Edge-Aware Noise Reduction, Edge-Aware Sharpening, and Tone Mapping. The project’s objective is to create an ISP pipeline for bulk image processing, enabling input from an image folder and generating output in a specified directory. To enhance accessibility, the final ISP pipeline output will be presented through the Graphical User Interface (GUI) of MATLAB, offering a user-friendly experience for researchers and practitioners.
+
+## Problem statement
+To Develop a Simple and Robust Image Signal Processing (ISP) Pipeline to effectively and efficiently process raw image data captured by an image sensor to produce high-quality images.
+
+## Objectives
+• Image Acquisition and Preprocessing:
+– Acquire raw image data from a specified source to efficiently handle image
+processing in large quantities.
+– Apply necessary preprocessing steps such as Black level correction, De mosaicking, and white balance.
+• Image Enhancement:
+– Apply Gamma Correction to adjust image brightness and contrast.
+– Utilize Color Correction Matrix for enhancing color accuracy.
+– Apply noise reduction techniques, utilizing either bilateral filtering or nonlinear filtering.
+– Implement tone mapping to handle high dynamic range scenes.
+• Robustness and Error Handling:
+– Incorporate error handling for corrupted images and unexpected scenarios in
+the pipeline.
+– Ensure robustness to handle diverse input scenarios without compromising
+output quality.
+– Allow for flexibility and customization with respect to parameters, algorithms,
+and plugin modules to suit specific application requirements.
+• MATLAB GUI for the Image Signal Processing Pipeline:
+– Develop a MATLAB GUI for the ISP pipeline, providing users with the flexibility to import and direct images.
+– Enable users to choose specific plugins and algorithms tailored to their requirements.
